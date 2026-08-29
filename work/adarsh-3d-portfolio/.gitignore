@@ -1,0 +1,5 @@
+node_modules
+.npm-cache
+client/dist
+server/.env
+.DS_Store
