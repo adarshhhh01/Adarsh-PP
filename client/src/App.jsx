@@ -539,11 +539,11 @@ function App () {
                 Explore my work <ArrowDownRight size={18} />
               </a>
               <a
-                className='text-link'
-                href='https://docs.google.com/document/d/e/2PACX-1vSX-ngrncQE_m9K0LRNCX8IQDGLRD0lFrl4f6eLoFPi36kMly5u6fMZp7D5O27lRw/pub'
-                target='_blank'
-                rel='noreferrer'
-              >
+                  className="text-link"
+                  href="/resume_adarsh_namdeo_26-11-26.pdf"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
                 View resume <Download size={15} />
               </a>
             </motion.div>
