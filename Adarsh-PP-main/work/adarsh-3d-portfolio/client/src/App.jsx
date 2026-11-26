@@ -39,6 +39,7 @@ import {
 } from 'react-icons/si'
 import { FaJava } from 'react-icons/fa6'
 
+
 const whatsappUrl =
   'https://wa.me/917974278003?text=Hi%20Adarsh%2C%20I%20would%20love%20to%20talk%20about%20a%20project.'
 
@@ -562,10 +563,10 @@ function App () {
               </a>
               <a
                 className='text-link'
-                href='https://docs.google.com/document/d/e/2PACX-1vSX-ngrncQE_m9K0LRNCX8IQDGLRD0lFrl4f6eLoFPi36kMly5u6fMZp7D5O27lRw/pub'
+                href='/resume_adarsh_namdeo_26-11-26.pdf'
                 target='_blank'
                 rel='noreferrer'
-              >
+                >
                 View resume <Download size={15} />
               </a>
             </motion.div>
