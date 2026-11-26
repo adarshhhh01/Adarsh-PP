@@ -540,7 +540,7 @@ function App () {
               </a>
               <a
                   className="text-link"
-                  href="/resume_adarsh_namdeo_26-11-26.pdf"
+                  href="/resume_adarsh_namdeo_26-11-26.docx"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
